@@ -5,3 +5,4 @@ Toda explicação de como utilizar o relógio já esta no próprio site.
 <img src="Screenshot_tela.png"></img>
 
 <h2>Screenshot responsivo</h2>
+<img src="Screenshot_responsive.png"></img>
